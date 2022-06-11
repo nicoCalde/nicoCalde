@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nicoCalde
 - 👀 I’m interested in learning new things.
 - 🌱 I’m currently learning Python Fullstack.
-- 💞️ I’m looking to collaborate on nothing for now, let me lern first.
+- 💞️ I’m looking to collaborate on nothing for now, let me learn first.
 - 📫 How to reach me: pm
 
 <!---
